@@ -1,0 +1,14 @@
+
+.container{
+margin:0 auto;
+	background:white;
+	width:100%;
+	position: absolute;
+	display: flex;
+	justify-content:center;
+}
+
+#myCanvas{
+background :#FCBA56
+
+}
